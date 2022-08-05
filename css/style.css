@@ -274,6 +274,7 @@ section{
 }
 
 .menu .box-container .box img{
+    height: 20rem;
     height: 10rem;
 }
 
@@ -377,7 +378,7 @@ section{
 .review .box-container .box p{
     font-size: 1.5rem;
     line-height: 1.8;
-    color:#ccc;
+    color:#fff;
     padding:2rem 0;
 }
 
@@ -498,7 +499,7 @@ section{
 .blogs .box-container .box .content p{
     font-size: 1.6rem;
     line-height: 1.8;
-    color:#ccc;
+    color:#fff;
     padding:1rem 0;
 }
 
